@@ -1,9 +1,0 @@
-.skills{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.skills-section{
-    display: flex;
-}
