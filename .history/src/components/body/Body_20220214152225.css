@@ -1,0 +1,13 @@
+.body{
+    padding: 12px; 
+    padding-bottom: 40px;
+    font-weight: lighter;
+}
+.typical{
+    font-size: 40px;
+    font-weight: lighter;
+    color: rgb(85, 75, 235);
+}
+.c1{
+ height: 100vh;
+}

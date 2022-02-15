@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+    flex: 1;
+    padding: 12px;
+    position: relative;
+    align-items: center;
+}
+
+.menu{
+    background-color: aliceblue;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}

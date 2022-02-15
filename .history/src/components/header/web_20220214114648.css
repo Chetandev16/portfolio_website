@@ -1,0 +1,25 @@
+.web {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+.web-option {
+  font-size: 20px;
+  margin-right: 16px;
+  font-weight: 700;
+}
+
+.web-option a .option-icon {
+  size: 24px;
+}
+
+.web-option a {
+  text-decoration: none;
+  color: grey;
+}
+
+@media screen and (max-width: 1200px) {
+  .web-option {
+    padding: 0 0.2;
+  }
+}

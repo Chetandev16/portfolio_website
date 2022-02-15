@@ -1,0 +1,21 @@
+.work {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.work-list {
+    font-weight: normal;
+    font-size: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px  30px;
+}
+
+@media screen and (max-width:720px) {
+    .work-list{
+        margin: 24px 15px;
+    }
+}

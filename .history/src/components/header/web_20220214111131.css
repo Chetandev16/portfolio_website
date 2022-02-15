@@ -1,0 +1,10 @@
+.web{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
+}
+.web-option{
+    padding: 0 2rem;
+    text-decoration: none;
+    outline: none;
+}

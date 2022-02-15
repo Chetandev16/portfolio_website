@@ -1,0 +1,21 @@
+.social-contact {
+  padding-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-icon-div {
+  padding: 0 2rem;
+  cursor: pointer;
+}
+
+.img-social {
+  height: 40px;
+}
+
+
+@media screen and (max-width:720px){
+  .img-social{
+    height: 30px;
+  }
+}

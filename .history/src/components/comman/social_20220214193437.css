@@ -1,0 +1,11 @@
+.social-contact {
+  padding-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-icon-div {
+  padding: 0 2rem;
+  cursor: pointer;
+  margin: 6px;
+}

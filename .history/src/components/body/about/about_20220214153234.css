@@ -1,0 +1,12 @@
+.about{
+    padding-bottom: 48px;
+}
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pic{
+    height: 430px;
+}

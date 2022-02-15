@@ -1,0 +1,13 @@
+.work-card{
+    padding: 8px;
+    width: 45%;
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.work-logo{
+    height: 80px;
+}
