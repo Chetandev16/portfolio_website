@@ -1,14 +1,15 @@
 .work-card {
-  display: flex;
-  padding: 10px;
-  font-size: 19px;
-  width: 45%;
+  padding: 8px;
   margin-top: 16px;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   flex-direction: row-reverse;
 }
-
+.company-name {
+  font-weight: normal;
+  margin-bottom: 15px;
+}
 .work-logo {
   height: 80px;
 }
@@ -21,9 +22,13 @@
 
 .work-dates {
   color: gray;
+  margin-bottom: 20px;
 }
-
+.certificate-card-p{
+  font-size: 20px;
+}
 .work-desc {
+  font-size: 24px;
   text-align: left;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -36,5 +41,8 @@
 @media only screen and (max-width: 720px) {
   .work-card {
     width: 100%;
+  }
+  .certificate-card-p{
+    font-size: 17px;
   }
 }

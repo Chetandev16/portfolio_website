@@ -60,14 +60,19 @@
   align-items: center;
   margin-right: 4px;
 }
+.project-desc{
+  font-weight: normal;
+  font-size: 22px;
+}
 
 @media screen and (max-width: 720px) {
   .project-photo {
     width: 70%;
+    margin-top: 10px;
   }
   .project-card {
-    
-    flex-direction: column-reverse;
+    padding: 1rem 0;
+    flex-direction: column;
   }
   .projet-info{
       margin-left: 0px;
@@ -75,5 +80,8 @@
   }
   .project-tags{
       max-width: 100%;
+  }
+  .project-desc{
+    font-size: 19px;
   }
 }

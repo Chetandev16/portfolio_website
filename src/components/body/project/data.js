@@ -11,7 +11,7 @@ export const ProjectData = [
     {
         id:2,
         title: "Sentimental-Analyzer",
-        about: "This is a web project in which we are calculating polarity in diffrent platforms like Twitter,news etc using api calling.",
+        about: "This is a web project in which we are calculating polarity in different platforms like Twitter, news, etc. using API calling",
         tags: ["react" , "python", "streamlit"],
         demo: "https://google.com",
         github : "asfasfafa",
@@ -20,7 +20,7 @@ export const ProjectData = [
     {
         id:3,
         title: "CryptoHub",
-        about: "This is a react based project in which crypto news and their latest price are showing using api from rapid api.",
+        about: "This is a React-based project in which crypto news and their latest price are showing using API from rapid API.",
         tags: ["React" ,"AntDesign" , "Redux-Toolkit"],
         demo: "https://cryptohub-by-chetan.netlify.app",
         github : "https://github.com/Chetandev16/CryptoHub",

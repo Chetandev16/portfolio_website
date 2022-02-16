@@ -6,3 +6,33 @@
 .c1{
     height: 100vh;
 }
+#project{
+  height: 100vh;
+}
+/* #skills{
+  height: 100vh;
+}
+#work{
+  height: 100vh;
+} */
+/* #contact{
+  height: 100vh;
+} */
+
+@media screen and (max-width:1130px){
+  #project{
+    height: 110vh;
+  }
+}
+
+@media screen and (max-width:801px){
+  #project{
+    height: 120vh;
+  }
+}
+
+@media screen and (max-width:720px){
+  #project{
+    height: 155vh;
+  }
+}

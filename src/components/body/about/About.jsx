@@ -36,11 +36,11 @@ const About = () => {
               wrapper="p"
             />
             <br />
-            Currently pursuing Btech Cse and interested in React development!
+            This is my personal portfolio website which is made with the help of Reactjs
           </div>
           <div></div>
           <div className="about-photo">
-            <img src={chetanimg} alt="chetanimg" className="pic" />
+            <img src={chetanimg} alt="chetanimg" className="pic floating" />
           </div>
         </div>
         <Social />

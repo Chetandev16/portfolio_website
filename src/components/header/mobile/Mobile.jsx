@@ -13,7 +13,9 @@ const Mobile = ({ isOpen, setIsOpen }) => {
       >
         <MdOutlineCancel className="menu-icon" />
       </div>
-      <div className="mobile-options">
+      <div className="mobile-options" onClick={()=>{
+          setIsOpen(!isOpen)
+        }}>
         <div className="mobile-option">
           <a href="#project">
             <i class="fa-solid fa-laptop option-icon"></i> Project

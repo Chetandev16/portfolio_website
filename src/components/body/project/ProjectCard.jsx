@@ -21,7 +21,7 @@ const ProjectCard = ({ item }) => {
           </a>
           )}
         </div>
-        <p style={{fontWeight:"normal"}}>
+        <p className="project-desc">
           {item.about}
         </p>
         <div className="project-tags">
