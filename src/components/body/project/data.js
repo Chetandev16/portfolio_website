@@ -6,7 +6,7 @@ export const ProjectData = [
         tags: ["Html" , "Css" ,"React"],
         demo: "https://chetandev16.netlify.app",
         github : "https://github.com/Chetandev16/portfolio_website",
-        image: "https://github.com/Chetandev16/portfolio_website/blob/master/ss.png",
+        image: "https://github.com/Chetandev16/portfolio_website/blob/master/ss.png?raw=true",
     },
     {
         id:2,
