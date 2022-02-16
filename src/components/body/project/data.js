@@ -4,9 +4,9 @@ export const ProjectData = [
         title: "Portfolio-Website",
         about: "This is my personal portfolio website which is made with help of reactjs",
         tags: ["Html" , "Css" ,"React"],
-        demo: "#",
-        github : "asfasfafa",
-        image: "https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q2/project-planning-header@2x.png",
+        demo: "https://chetandev16.netlify.app",
+        github : "https://github.com/Chetandev16/portfolio_website",
+        image: "https://github.com/Chetandev16/portfolio_website/blob/master/ss.png",
     },
     {
         id:2,
