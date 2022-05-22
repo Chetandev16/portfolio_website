@@ -1,6 +1,6 @@
 import React from "react";
 import "./web.css";
-import download from "../../../components/resume/chetanpathak.pdf"
+import download from "../../../components/cpsiteresume.pdf"
 const Web = () => {
   return (
     <div className="web">

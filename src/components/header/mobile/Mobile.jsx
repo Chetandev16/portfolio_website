@@ -1,7 +1,7 @@
 import React from "react";
 import "./mobile.css";
 import { MdOutlineCancel } from "react-icons/md";
-import download from "../../../components/resume/chetanpathak.pdf"
+import download from "../../../components/cpsiteresume.pdf"
 const Mobile = ({ isOpen, setIsOpen }) => {
   return (
     <div className="mobile">

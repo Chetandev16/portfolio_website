@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 import Separator from "../../comman/seperator/Separator";
 import SocialContact from "../../comman/Social";
-import download from "../../resume/chetanpathak.pdf";
+import download from "../../cpsiteresume.pdf";
 const Contact = () => {
   return (
     <div className="contact">
