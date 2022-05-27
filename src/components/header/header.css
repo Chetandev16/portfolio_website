@@ -29,6 +29,7 @@
 .logo {
   display: flex;
   height: 120px;
+  cursor: pointer;
 }
 
 

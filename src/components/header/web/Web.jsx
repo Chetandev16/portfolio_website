@@ -1,26 +1,34 @@
 import React from "react";
 import "./web.css";
 import download from "../../../components/cpsiteresume.pdf"
-const Web = () => {
+const Web = ({ setShow }) => {
   return (
     <div className="web">
       <div className="web-option">
-        <a href="#project">
+        <a onClick={() => {
+          setShow(1);
+        }}>
           <i class="fa-solid fa-laptop option-icon"></i> Project
         </a>
       </div>
       <div className="web-option">
-        <a href="#skills">
+        <a onClick={() => {
+          setShow(2);
+        }}>
           <i class="fa-solid fa-code option-icon"></i> Skills
         </a>
       </div>
       <div className="web-option">
-        <a href="#work">
+        <a onClick={() => {
+          setShow(3);
+        }}>
           <i class="fa-solid fa-briefcase option-icon"></i> Certification
         </a>
       </div>
       <div className="web-option">
-        <a href="#contact">
+        <a onClick={() => {
+          setShow(4);
+        }}>
           <i class="fa-solid fa-phone option-icon"></i> Contact
         </a>
       </div>

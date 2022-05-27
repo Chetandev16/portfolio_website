@@ -30,8 +30,6 @@ const About = () => {
                 1200,
                 "React Developer!! ",
                 1200,
-                "Future SDE :)",
-                1200,
               ]}
               wrapper="p"
             />

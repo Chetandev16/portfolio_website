@@ -13,6 +13,7 @@
 .web-option a {
   text-decoration: none;
   color: gray;
+  cursor: pointer;
   display: flex;
   align-items: center;
 }
