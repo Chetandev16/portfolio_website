@@ -7,7 +7,7 @@
 /.history
 # testing
 /coverage
-*.pdf
+# *.pdf
 # production
 /build
 
