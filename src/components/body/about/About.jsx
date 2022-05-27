@@ -34,7 +34,7 @@ const About = () => {
               wrapper="p"
             />
             <br />
-            This is my personal portfolio website which is made with the help of Reactjs
+            This is my personal portfolio website, which is made with the help of Reactjs.
           </div>
           <div></div>
           <div className="about-photo">
