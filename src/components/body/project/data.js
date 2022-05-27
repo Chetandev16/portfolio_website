@@ -24,6 +24,6 @@ export const ProjectData = [
         tags: ["React" ,"TailwinCss" , "Sanityio","Thirdweb","MetaMask"],
         demo: "https://nftdrop-challenge-three.vercel.app/",
         github : "https://github.com/Chetandev16/nft-drop-chetan",
-        image: "https://raw.githubusercontent.com/Chetandev16/nft-drop-chetan/master/nft.png?token=GHSAT0AAAAAABTODQS4J3RSAZI23REYKMNOYUQXRZQ",
+        image: "https://github.com/Chetandev16/nft-drop-chetan/blob/master/nft.png?raw=true",
     },
 ]
