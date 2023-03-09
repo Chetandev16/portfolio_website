@@ -24,11 +24,11 @@ const About = () => {
               className="typical"
               loop={Infinity}
               steps={[
-                "A Student",
+                "Software Developer",
                 1200,
                 "Enthusiastic Dev ~",
                 1200,
-                "React Developer!! ",
+                "Full Stack Developer!! ",
                 1200,
               ]}
               wrapper="p"
